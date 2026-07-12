@@ -20,3 +20,4 @@ export const getHotGoodsAPI = ({ id, type, limit = 3 }) => {
     }
   })
 }
+//
