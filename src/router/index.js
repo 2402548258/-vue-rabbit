@@ -18,6 +18,8 @@ import UserOrder from '@/views/Member/components/UserOrder.vue'
 
 //1232444
 //1232
+//2222
+//21321321
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   // path和component对应关系的位置
